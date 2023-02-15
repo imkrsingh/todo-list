@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.todo_img{
+  width: 50px;
+}
+.add-btn{
+  cursor: pointer;
+  color: rgb(63, 124, 63);
+}
+.eachItem{
+  background: aliceblue;
+  padding: 13px 15px 2px;
+}
+.eachItem i{
+  cursor: pointer;
+  color: rgb(218, 60, 60);
+}
